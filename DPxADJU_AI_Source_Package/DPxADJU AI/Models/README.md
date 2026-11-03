@@ -1,0 +1,1 @@
+No trained neural audio model is bundled in milestone 0.1. The current local analysis is deterministic DSP/heuristic analysis. Do not describe this build as neural-network AI. Future model integration should use a documented local inference runtime, offline model files, CPU thread limits, background inference and explicit model licensing.
